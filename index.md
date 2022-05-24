@@ -26,4 +26,8 @@ My research interests include computational intelligence and image understanding
 
 [4] W. Zhang, L. Jiao, F. Liu, S. Yang, W. Song and <b>J. Liu*</b>, "Sparse Feature Clustering Network for Unsupervised SAR Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-13, Art no. 5226713, 2022.
 
+[5] W. Zhang, L. Jiao, F. Liu, L. Li, X. Liu and <b>J. Liu</b>, "MBLT: Learning Motion and Background for Vehicle Tracking in Satellite Videos," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-15, Art no. 4703315, 2022.
+
 [6] F. Liu, J. Wang, X. Tang, <b>J. Liu</b>, X. Zhang and L. Xiao, "Adaptive Graph Convolutional Network for PolSAR Image Classification," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5208114, 2022.
+
+[7] <b>J. Liu</b>, W. Zhang, F. Liu and L. Xiao, "Deep Associative Learning for Neural Networks," in Neurocomputing, vol. 443, pp. 222-234, 2021.
