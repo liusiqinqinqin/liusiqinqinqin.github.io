@@ -33,3 +33,7 @@ My research interests include computational intelligence and image understanding
 [7] <b>J. Liu</b>, W. Zhang, F. Liu and L. Xiao, "Deep Associative Learning for Neural Networks," in Neurocomputing, vol. 443, pp. 222-234, 2021.
 
 [8] M. Gong, <b>J. Liu</b>, A. K. Qin, K. Zhao and K. C. Tan, "Evolving Deep Neural Networks via Cooperative Coevolution With Backpropagation," in IEEE Transactions on Neural Networks and Learning Systems(<b>IEEE T-NNLS</b>), vol. 32, no. 1, pp. 420-434, Jan. 2021.
+
+[9] W. Zhang, L. Jiao, Y. Li and <b>J. Liu</b>, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing(<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021.
+
+[10] F. Liu, X. Tang, X. Zhang, L. Jiao and <b>J. Liu</b>, "Large-Scope PolSAR Image Change Detection Based on Looking-Around-and-Into Mode," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 59, no. 1, pp. 363-378, Jan. 2021.
