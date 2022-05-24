@@ -37,3 +37,7 @@ My research interests include computational intelligence and image understanding
 [9] W. Zhang, L. Jiao, Y. Li and <b>J. Liu</b>, "Sparse Learning-Based Correlation Filter for Robust Tracking," in IEEE Transactions on Image Processing(<b>IEEE T-IP</b>), vol. 30, pp. 878-891, 2021.
 
 [10] F. Liu, X. Tang, X. Zhang, L. Jiao and <b>J. Liu</b>, "Large-Scope PolSAR Image Change Detection Based on Looking-Around-and-Into Mode," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 59, no. 1, pp. 363-378, Jan. 2021.
+
+[11] <b>J. Liu</b>, M. Gong, A. K. Qin and K. C. Tan, "Bipartite Differential Neural Network for Unsupervised Image Change Detection," in IEEE Transactions on Neural Networks and Learning Systems(<b>IEEE T-NNLS</b>), vol. 31, no. 3, pp. 876-890, March 2020.
+
+[12] 
