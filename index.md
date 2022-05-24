@@ -30,7 +30,7 @@ My research interests include computational intelligence and image understanding
 
 [6] F. Liu, J. Wang, X. Tang, <b>J. Liu</b>, X. Zhang and L. Xiao, "Adaptive Graph Convolutional Network for PolSAR Image Classification," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 5208114, 2022.
 
-[7] <b>J. Liu</b>, W. Zhang, F. Liu and L. Xiao, "Deep Associative Learning for Neural Networks," in Neurocomputing, vol. 443, pp. 222-234, 2021.
+[7] <b>J. Liu</b>, W. Zhang, F. Liu and L. Xiao, "Deep Associative Learning for Neural Networks," in <b>Neurocomputing</b>, vol. 443, pp. 222-234, 2021.
 
 [8] M. Gong, <b>J. Liu</b>, A. K. Qin, K. Zhao and K. C. Tan, "Evolving Deep Neural Networks via Cooperative Coevolution With Backpropagation," in IEEE Transactions on Neural Networks and Learning Systems(<b>IEEE T-NNLS</b>), vol. 32, no. 1, pp. 420-434, Jan. 2021.
 
