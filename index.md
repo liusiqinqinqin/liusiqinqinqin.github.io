@@ -90,7 +90,7 @@ My research interests include computational intelligence and image understanding
 
 [7] P. Zhang, M. Gong, H. Zhang and <b>J. Liu</b>, "DRLnet: Deep Difference Representation Learning Network and An Unsupervised Optimization Framework," Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence(<b>IJCAI</b>), pp. 3413-3419, <b>2017</b>.
 
-[8] T. Xie, M. Gong, Z. Tang, Y. Lei, <b>J. Liu</b> and Z. Wang, "Enhancing evolutionary multifactorial optimization based on particle swarm optimization," 2016 IEEE Congress on Evolutionary Computation(<b>CEC</b>), pp. 1658-1665, <b>2016</b>.
+[8] T. Xie, M. Gong, Z. Tang, Y. Lei, <b>J. Liu</b> and Z. Wang, "Enhancing Evolutionary Multifactorial Optimization based on Particle Swarm Optimization," 2016 IEEE Congress on Evolutionary Computation(<b>CEC</b>), pp. 1658-1665, <b>2016</b>.
 
 [9] J. Zhao, M. Gong, <b>J. Liu</b> and L. Jiao, "Deep Learning to Classify Difference Image for Image Change Detection," 2014 International Joint Conference on Neural Networks(<b>IJCNN</b>), pp. 411-417, <b>2014</b>.
 
