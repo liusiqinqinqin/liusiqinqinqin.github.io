@@ -40,4 +40,6 @@ My research interests include computational intelligence and image understanding
 
 [11] <b>J. Liu</b>, M. Gong, A. K. Qin and K. C. Tan, "Bipartite Differential Neural Network for Unsupervised Image Change Detection," in IEEE Transactions on Neural Networks and Learning Systems(<b>IEEE T-NNLS</b>), vol. 31, no. 3, pp. 876-890, March 2020.
 
-[12] 
+[12] Liu, Jia, Maoguo Gong, and Haibo He. "Deep Associative Neural Network for Associative Memory based on Unsupervised Representation Learning." Neural Networks 113 (2019): 41-53.
+
+
