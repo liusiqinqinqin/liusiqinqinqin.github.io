@@ -1,13 +1,13 @@
 ## Jia Liu（刘嘉）
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="80%">
       <p><b>Associate Professor</b></p>
       <p><b>School of Computer Science and Engineering, Nanjing University of Science and Technology.</b></p>
       <p><b>Email：omegaliuj@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/jialiu.jpg" width="100%">     
     </td>
   </tr>
 </table>
