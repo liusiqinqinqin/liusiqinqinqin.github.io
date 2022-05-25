@@ -41,6 +41,7 @@ My research interests include computational intelligence and image understanding
 [11] <b>J. Liu</b>, M. Gong, A. K. Qin and K. C. Tan, "Bipartite Differential Neural Network for Unsupervised Image Change Detection," in IEEE Transactions on Neural Networks and Learning Systems(<b>IEEE T-NNLS</b>), vol. 31, no. 3, pp. 876-890, March <b>2020</b>.
 
 [12] <b>J. Liu</b>, M. Gong and H. He, "Deep Associative Neural Network for Associative Memory based on Unsupervised Representation Learning," in <b>Neural Networks</b>, vol. 113, pp. 41-53, <b>2019</b>.
+
 [13] M. Gong, H. Li, D. Meng, Q. Miao and <b>J. Liu</b>, "Decomposition-Based Evolutionary Multiobjective Optimization to Self-Paced Learning," in IEEE Transactions on Evolutionary Computation(<b>IEEE T-EC</b>), vol. 23, no. 2, pp. 288-302, April <b>2019</b>.
 
 [14] P. Zhang, M. Gong, H. Zhang, <b>J. Liu</b> and Y. Ban, "Unsupervised Difference Representation Learning for Detecting Multiple Types of Changes in Multitemporal Remote Sensing Images," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 57, no. 4, pp. 2277-2289, April <b>2019</b>.
