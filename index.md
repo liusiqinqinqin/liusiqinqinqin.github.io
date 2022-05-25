@@ -76,9 +76,9 @@ My research interests include computational intelligence and image understanding
 
 
 ## Selected Conference Papers
-[1] <b>J. Liu</b>, W. Zhang, M. Gong and H. He, "Nucleus Neural Network: A Data-driven Self-organized Architecture," 2020 International Joint Conference on Neural Networks(<b>IJCNN</b>), pp. 1-8, <b>2020</b>.
+[1] <b>J. Liu</b>, W. Zhang, M. Gong and H. He, "Nucleus Neural Network: A Data-driven Self-organized Architecture," 2020 International Joint Conference on Neural Networks(<b>IJCNN</b>), pp. 1-8, <b>2020</b>. (<b>Oral</b>)
 
-[2] W. Zhang, L. Jiao, X. Liu and <b>J. Liu</b>, "Multi-Scale Feature Fusion Network for Object Detection in VHR Optical Remote Sensing Images," IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium(<b>IGARSS</b>), pp. 330-333, <b>2019</b>.
+[2] W. Zhang, L. Jiao, X. Liu and <b>J. Liu</b>, "Multi-Scale Feature Fusion Network for Object Detection in VHR Optical Remote Sensing Images," IGARSS 2019 - 2019 IEEE International Geoscience and Remote Sensing Symposium(<b>IGARSS</b>), pp. 330-333, <b>2019</b>. (<b>Oral</b>)
 
 [3] <b>J. Liu</b>, M. Gong and Q. Miao, "Neuron Learning Machine for Representation Learning," Thirty-First AAAI Conference on Artificial Intelligence(<b>AAAI</b>), pp. 4961-4962, <b>2017</b>.
 
@@ -92,7 +92,7 @@ My research interests include computational intelligence and image understanding
 
 [8] T. Xie, M. Gong, Z. Tang, Y. Lei, <b>J. Liu</b> and Z. Wang, "Enhancing evolutionary multifactorial optimization based on particle swarm optimization," 2016 IEEE Congress on Evolutionary Computation(<b>CEC</b>), pp. 1658-1665, <b>2016</b>.
 
-[9] J. Zhao, M. Gong, <b>J. Liu</b> and L. Jiao, "Deep learning to classify difference image for image change detection," 2014 International Joint Conference on Neural Networks(<b>IJCNN</b>), pp. 411-417, <b>2014</b>.
+[9] J. Zhao, M. Gong, <b>J. Liu</b> and L. Jiao, "Deep Learning to Classify Difference Image for Image Change Detection," 2014 International Joint Conference on Neural Networks(<b>IJCNN</b>), pp. 411-417, <b>2014</b>.
 
 ## Honors
 西安电子科技大学优秀博士学位论文
