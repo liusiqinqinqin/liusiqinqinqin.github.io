@@ -89,3 +89,11 @@ My research interests include computational intelligence and image understanding
 [8] T. Xie, M. Gong, Z. Tang, Y. Lei, <b>J. Liu</b> and Z. Wang, "Enhancing evolutionary multifactorial optimization based on particle swarm optimization," 2016 IEEE Congress on Evolutionary Computation(<b>CEC</b>), pp. 1658-1665, <b>2016</b>.
 
 [9] J. Zhao, M. Gong, <b>J. Liu</b> and L. Jiao, "Deep learning to classify difference image for image change detection," 2014 International Joint Conference on Neural Networks(<b>IJCNN</b>), pp. 411-417, <b>2014</b>.
+
+## Honors
+西安电子科技大学优秀博士学位论文
+
+陕西省优秀博士学位论文
+
+## Services
+Reviewer of IEEE T-NNLS/IEEE T-EC/IEEE T-Cyb/IEEE T-AI/...
