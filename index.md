@@ -1,6 +1,6 @@
 ## Jia Liu（刘嘉）
 
-[<b>[DBLP]</b>](https://dblp.org/pid/49/1245-20.html) [<b>[GitHub]</b>](https://liusiqinqinqin.github.io/)
+[<b>[DBLP]</b>](https://dblp.org/pid/49/1245-20.html) [<b>[GitHub]</b>](https://github.com/liusiqinqinqin/)
 <table border="0">
   <tr>
     <td width="80%">
