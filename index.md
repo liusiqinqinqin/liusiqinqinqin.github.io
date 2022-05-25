@@ -1,10 +1,13 @@
 ## Jia Liu（刘嘉）
+
+[<b>[DBLP]</b>](https://dblp.org/pid/49/1245-20.html)    [<b>[GitHub]</b>](https://liusiqinqinqin.github.io/)
 <table border="0">
   <tr>
     <td width="80%">
       <p><b>Associate Professor</b></p>
-      <p><b>School of Computer Science and Engineering, Nanjing University of Science and Technology.</b></p>
-      <p><b>Email：omegaliuj@gmail.com</b></p>
+      <p><b>School of Computer Science and Engineering</b></p>
+      <p><b>Nanjing University of Science and Technology, Nanjing, China.</b></p>
+      <p><b>Email：</b>omegaliuj@gmail.com</p>
     </td>
     <td width="25%">
       <img src="/jialiu.jpg" width="100%">     
