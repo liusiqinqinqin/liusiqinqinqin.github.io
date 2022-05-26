@@ -25,9 +25,9 @@ My research interests include computational intelligence and image understanding
 
 [2] <b>J. Liu</b>, W. Zhang, F. Liu and L. Xiao, "A Probabilistic Model Based on Bipartite Convolutional Neural Network for Unsupervised Change Detection," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 4701514, <b>2022</b>.
 
-[3] W. Zhang, L. Jiao, F. Liu, S. Yang and <b>J. Liu*</b>, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing(<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, <b>2022</b>.
+[3] W. Zhang, L. Jiao*, F. Liu, S. Yang and <b>J. Liu*</b>, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing(<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, <b>2022</b>.
 
-[4] W. Zhang, L. Jiao, F. Liu, S. Yang, W. Song and <b>J. Liu*</b>, "Sparse Feature Clustering Network for Unsupervised SAR Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-13, Art no. 5226713, <b>2022</b>.
+[4] W. Zhang, L. Jiao*, F. Liu, S. Yang, W. Song and <b>J. Liu*</b>, "Sparse Feature Clustering Network for Unsupervised SAR Image Change Detection," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-13, Art no. 5226713, <b>2022</b>.
 
 [5] W. Zhang, L. Jiao, F. Liu, L. Li, X. Liu and <b>J. Liu</b>, "MBLT: Learning Motion and Background for Vehicle Tracking in Satellite Videos," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-15, Art no. 4703315, <b>2022</b>.
 
