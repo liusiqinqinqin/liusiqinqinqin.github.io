@@ -25,9 +25,9 @@ My research interests include computational intelligence and image understanding
 
 [2] <b>J. Liu</b>, W. Zhang, F. Liu and L. Xiao, "A Probabilistic Model Based on Bipartite Convolutional Neural Network for Unsupervised Change Detection," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), vol. 60, pp. 1-14, Art no. 4701514, <b>2022</b>.
 
-[3] W. Zhang, L. Jiao, F. Liu, <b>J. Liu</b> and Z. Cui, "LHNet: Laplacian Convolutional Block for Remote Sensing Image Scene Classification," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), Accepted, 2022.
+[3] W. Zhang, L. Jiao, F. Liu, <b>J. Liu</b> and Z. Cui, "LHNet: Laplacian Convolutional Block for Remote Sensing Image Scene Classification," in IEEE Transactions on Geoscience and Remote Sensing(<b>IEEE T-GRS</b>), Accepted, <b>2022</b>.
 
-[4] W. Zhang, L. Jiao, F. Liu, S. Yang and <b>J. Liu</b>, "DFAT: Dynamic Feature-Adaptive Tracking," in IEEE Transactions on Circuits and Systems for Video Technology(<b>IEEE T-CSVT</b>), Accepted, 2022.
+[4] W. Zhang, L. Jiao, F. Liu, S. Yang and <b>J. Liu</b>, "DFAT: Dynamic Feature-Adaptive Tracking," in IEEE Transactions on Circuits and Systems for Video Technology(<b>IEEE T-CSVT</b>), Accepted, <b>2022</b>.
 
 [5] W. Zhang, L. Jiao*, F. Liu, S. Yang and <b>J. Liu*</b>, "Adaptive Contourlet Fusion Clustering for SAR Image Change Detection," in IEEE Transactions on Image Processing(<b>IEEE T-IP</b>), vol. 31, pp. 2295-2308, <b>2022</b>.
 
